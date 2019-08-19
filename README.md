@@ -1,2 +1,2 @@
 # mynewtest
-Thi is mynew test for testing terraform changes
+This is mynew test for testing terraform changes
